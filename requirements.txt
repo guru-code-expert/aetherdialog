@@ -1,0 +1,8 @@
+
+### `requirements.txt`
+```txt
+tensorflow>=2.15.0
+pandas
+PyYAML
+numpy
+joblib
